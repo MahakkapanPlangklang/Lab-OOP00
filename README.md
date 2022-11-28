@@ -1,5 +1,5 @@
 # Lab-OOP00
 This is my frist Repository
-name is Mahakkapan Plangklang
-id is 653450296-6
-phone 0945404747
+ชื่อ-นามสกุล:มหัคฆพันธ์ ปลั่งกลาง
+รหัสนักศึกษา:653450296-6
+อีเมล kku:Mahakkapan.p@kkumail.com
